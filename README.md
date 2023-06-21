@@ -1,11 +1,9 @@
 ## Quiz App
-A Quiz Android application 📱 built using Java ♨️
--------------------
-
+### A Quiz Android application 📱 built using Java ♨️
 ## Scan QR Code
  <img src="https://raw.githubusercontent.com/pikachu404/Quiz-App/master/screenshots/qrCodeForApk.png"
-width="200" height="200"> 
----------------
+width="150" height="150"> 
+
 ### Get Apk [Download here](https://raw.githubusercontent.com/pikachu404/Quiz-App/master/app/release/app-release.apk)
 ------------
 ## ⚙️ Features
@@ -25,12 +23,8 @@ width="200" height="200">
 
 ## 📸 Screenshots
 
-||||
-|:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
-| ![Create Account](Screenshots/Create Account.jpeg) | ![Imgur](screenshots/1.png) | ![Imgur](screenshots/2.png) |
-| ![Imgur](screenshots/3.png) | ![Imgur](screenshots/4.png) | ![Imgur](screenshots/5.png) |
-| ![Imgur](screenshots/6.png) | ![Imgur](screenshots/7.png) | ![Imgur](screenshots/8.png) |
-| ![Imgur](screenshots/9.png) | ![Imgur](screenshots/9.png) | ![Imgur](screenshots/10.png) |
+
+<img src="Screenshots/Create account.jpeg" width="200"  height="350">  <img src="Screenshots/Quiz options.jpeg" width="200" height="350"> <img src="Screenshots/History.jpeg" width="200" height="350">
 
 ## ⚡ Dependencies Used
 ```sh
